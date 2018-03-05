@@ -1,3 +1,7 @@
 document 1 for tutorial
 
+modification made by user1 (added new function)******
+
 modification1
+
+
